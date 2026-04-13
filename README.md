@@ -12,6 +12,20 @@ A pure-Python reinforcement learning environment that replicates the **Unity ML-
 
 ---
 
+
+## 📸 Screenshots
+
+### 🖼️ Image 1
+![Image 1](image/image1.png)
+
+### 🖼️ Image 2
+![Image 2](image/image2.png)
+
+### 🖼️ Image 3
+![Image 3](image/image3.png)
+
+---
+
 ## Features
 
 - **Matches Unity ML-Agents PushBlock spec exactly**

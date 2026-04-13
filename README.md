@@ -158,3 +158,8 @@ pushblock_game.py
 ## License
 
 MIT
+
+## How to Run
+
+python pushblock_game (1).py
+
